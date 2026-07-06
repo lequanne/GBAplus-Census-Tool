@@ -1536,7 +1536,7 @@ function Sec_Simulate({ activeFactors, checklist, delivery, setDelivery, langMod
       </div>
 
       {/* ---- CSV Upload ---- */}
-      <span style={sLabel}>{lang === "fr" ? "Données des répondants (CSV) — optionnel" : "Respondent data (CSV)"}</span>
+      <span style={sLabel}>{lang === "fr" ? "Données des répondants (CSV)" : "Respondent data (CSV)"}</span>
 
       {/* How it works explanation + example table */}
       <div style={{ ...card, marginBottom: "1.25rem" }}>
