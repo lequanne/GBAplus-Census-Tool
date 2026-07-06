@@ -154,7 +154,7 @@ const UI = {
   navInput: { en: "Survey input", fr: "Saisie du sondage" },
   navData: { en: "Population data", fr: "Données démographiques" },
   navChecklist: { en: "GBA+ checklist", fr: "Liste de vérification ACS+" },
-  navSimulate: { en: "Census Representativeness", fr: "Représentativité du recensement" },
+  navSimulate: { en: "Census Representativeness of survey respondent data", fr: "Représentativité par rapport au recensement des données des répondants à l'enquête" },
   navCompliance: { en: "Compliance", fr: "Conformité" },
   navMissing: { en: "Who's missing", fr: "Qui est exclu" },
   navPlain: { en: "Plain language", fr: "Langage clair" },
