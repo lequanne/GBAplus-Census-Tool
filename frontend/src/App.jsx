@@ -100,9 +100,9 @@ function pick(field, lang) {
 const UI = {
   appTitle: { en: "GBA+ Census Tool", fr: "Outil de recensement ACS+" },
   appSubtitle: { en: "Gender-Based Analysis Plus · Intersectional policy lens · Canadian GRC compliance", fr: "Analyse comparative entre les sexes plus · Lentille intersectionnelle · Conformité GRC canadienne" },
-  badgeText: { en: "GBA+ Framework · Claude API · MCP Layer", fr: "Cadre ACS+ · API Claude · Couche MCP" },
+  badgeText: { en: "GBA+ Framework · Census Representativeness of Surveys· MCP Layer", fr: "Cadre ACS+ · représentativité des enquêtes par rapport au recensement · Couche MCP" },
   tabSynthesis: { en: "Document Synthesis", fr: "Synthèse de documents" },
-  tabTwin: { en: "Survey Testing Twin", fr: "Jumeau de test de sondages" },
+  tabTwin: { en: "Survey Represenativeness Twin", fr: "représentativité du recensement (jumelage)" },
 
   // Document Synthesis
   dsTabInput: { en: "Input", fr: "Saisie" },
