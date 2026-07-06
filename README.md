@@ -1,7 +1,7 @@
 # GBA+ Census Tool
 
-A bilingual (EN/FR) GBA+ document synthesis tool and survey-instrument testing
-twin, grounded in real Statistics Canada / CRTC / Canadian Heritage data and
+A bilingual (EN/FR) GBA+ document synthesis tool and census representativeness testing
+twin for survey respondent data, grounded in real Statistics Canada / CRTC / Canadian Heritage data and
 government GBA+ guidance.
 
 This package is the **standalone, deployable** version of the tool. It's
