@@ -100,9 +100,9 @@ function pick(field, lang) {
 const UI = {
   appTitle: { en: "GBA+ Census Tool", fr: "Outil de recensement ACS+" },
   appSubtitle: { en: "Gender-Based Analysis Plus · Intersectional policy lens · Canadian GRC compliance", fr: "Analyse comparative entre les sexes plus · Lentille intersectionnelle · Conformité GRC canadienne" },
-  badgeText: { en: "GBA+ Framework · Claude API · MCP Layer", fr: "Cadre ACS+ · API Claude · Couche MCP" },
+  badgeText: { en: "GBA+ Framework · Census Representativeness of Federal Surveys · MCP Layer", fr: "Cadre ACS+ · Représentativité par rapport au recensement des enquêtes fédérales · Couche MCP" },
   tabSynthesis: { en: "Document Synthesis", fr: "Synthèse de documents" },
-  tabTwin: { en: "Survey Testing Twin", fr: "Jumeau de test de sondages" },
+  tabTwin: { en: "Survey Testing", fr: "Test de sondages" },
 
   // Document Synthesis
   dsTabInput: { en: "Input", fr: "Saisie" },
@@ -154,7 +154,7 @@ const UI = {
   navInput: { en: "Survey input", fr: "Saisie du sondage" },
   navData: { en: "Population data", fr: "Données démographiques" },
   navChecklist: { en: "GBA+ checklist", fr: "Liste de vérification ACS+" },
-  navSimulate: { en: "Census Representativeness", fr: "Représentativité du recensement" },
+  navSimulate: { en: "Assess Census Representativeness of Survey Respondent Data", fr: "Évaluer la représentativité des données des répondants à l'enquête par rapport au recensement" },
   navCompliance: { en: "Compliance", fr: "Conformité" },
   navMissing: { en: "Who's missing", fr: "Qui est exclu" },
   navPlain: { en: "Plain language", fr: "Langage clair" },
