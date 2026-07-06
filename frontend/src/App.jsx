@@ -102,7 +102,7 @@ const UI = {
   appSubtitle: { en: "Gender-Based Analysis Plus · Intersectional policy lens · Canadian GRC compliance", fr: "Analyse comparative entre les sexes plus · Lentille intersectionnelle · Conformité GRC canadienne" },
   badgeText: { en: "GBA+ Framework · Census Representativeness of Surveys · MCP Layer", fr: "Cadre ACS+ · représentativité des enquêtes par rapport au recensement · Couche MCP" },
   tabSynthesis: { en: "Document Synthesis", fr: "Synthèse de documents" },
-  tabTwin: { en: "Assess Survey Represenativeness", fr: "évaluer la représentativité de l'enquête" },
+  tabTwin: { en: "Assess Survey Representativeness", fr: "évaluer la représentativité de l'enquête" },
 
   // Document Synthesis
   dsTabInput: { en: "Input", fr: "Saisie" },
