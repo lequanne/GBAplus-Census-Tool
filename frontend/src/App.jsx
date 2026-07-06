@@ -1536,7 +1536,7 @@ function Sec_Simulate({ activeFactors, checklist, delivery, setDelivery, langMod
       </div>
 
       {/* ---- CSV Upload ---- */}
-      <span style={sLabel}>{lang === "fr" ? "Données des répondants (CSV) — optionnel" : "Respondent data (CSV) — optional"}</span>
+      <span style={sLabel}>{lang === "fr" ? "Données des répondants (CSV) — optionnel" : "Respondent data (CSV)"}</span>
 
       {/* How it works explanation + example table */}
       <div style={{ ...card, marginBottom: "1.25rem" }}>
@@ -1705,7 +1705,7 @@ function Sec_Simulate({ activeFactors, checklist, delivery, setDelivery, langMod
       )}
 
       {/* Survey instrument upload for AI */}
-      <span style={sLabel}>{lang === "fr" ? "Instrument de sondage (optionnel — pour l'évaluation par l'IA)" : "Survey instrument (optional — for AI assessment)"}</span>
+      <span style={sLabel}>{lang === "fr" ? "Sinon, collez ci-dessous les données des répondants à l'enquête." : "Alternatively, paste survey respondent data below."}</span>
       <textarea
         value={surveyText}
         onChange={e => setSurveyText(e.target.value)}
